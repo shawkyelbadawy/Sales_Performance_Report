@@ -26,6 +26,7 @@ The dataset contains:
 
 ## 📈 Visualization Included
 - **KPI Cards:** Total Transactions, Units Sold, Revenue, and Average Ticket Size.
+- **Interactive Slicer:** A **Date Range Slicer** that allow users to filter the whole dashboard by specific time period.
 - **Total Revenue by Month:** Time-series line chart with **drill-down hierarchy** (Quarter >Year > Month > Day).
 - **Revenue by Category:** Bar chart identifying top-performing departments with a **custom tooltip**.
 - **Age & Gender Analysis:** Clustered column chart showing spending power by demographic.
