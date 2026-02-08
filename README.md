@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project involves an analysis of a **Retail Sales Dataset** to uncover key insights into customer behavior, product performance, and sales trends. Using Power BI, I transformed raw data into an interactive dashboard that helps stakeholders to make data-driven decisions regarding inventory and marketing.
 
+![Dashboard Screenshot](Screenshots/Sales_Dashboard.png)
+
 ## 🛠️ Tools & Technologies 
 - **Power BI:** Data visualization and dashboard construction.
 - **Power Query:** Data cleaning, data formating and type conversion.
